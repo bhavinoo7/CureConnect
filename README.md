@@ -9,7 +9,7 @@ integration for instant updates.
 ![Screenshot 2024-11-20 200709](https://github.com/user-attachments/assets/418fc16f-309a-4e94-a6b7-dd07d5edb4f8)
 
 
-# diployed at:
+# deployed at:
 https://dosome.me
 
 
