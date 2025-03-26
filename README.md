@@ -1,4 +1,4 @@
-# Hospital Management system
+#CureConnect(Doctor Appoinment Booking System)
 
 - Developed a real-time doctor appointment booking platform using the MERN stack with WebSocket
 integration for instant updates.
