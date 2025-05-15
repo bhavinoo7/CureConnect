@@ -6,11 +6,11 @@
 
 ## Instruction:(Free to use)
 
--For doctor dashboard:
+- For doctor dashboard:
 id:yash@gmail.com
 password:yash
 
--For patient dashboard:
+- For patient dashboard:
 id:prit@gmail.com
 password:prit
 
