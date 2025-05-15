@@ -1,17 +1,17 @@
-# CureConnect(Doctor Appoinment Booking System)
+## CureConnect(Doctor Appoinment Booking System)
 
-- Developed a real-time doctor appointment booking platform using the MERN stack with WebSocket
+# Developed a real-time doctor appointment booking platform using the MERN stack with WebSocket
 integration for instant updates.
-- Designed a scheduling feature for doctors to set real time availability, and patients to book, view, or cancel appointments.
-- Implemented a notification system to remind patients of appointments and inform doctors of new bookings.
+# Designed a scheduling feature for doctors to set real time availability, and patients to book, view, or cancel appointments.
+# Implemented a notification system to remind patients of appointments and inform doctors of new bookings.
 
-## Instruction:(use if not require to register)
+## Instruction:(For any use)
 
-for doctor dashboard:
+For doctor dashboard:
 id:yash@gmail.com
 password:yash
 
-for patient dashboard:
+For patient dashboard:
 id:prit@gmail.com
 password:prit
 
