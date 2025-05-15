@@ -7,12 +7,12 @@
 ## Instruction:(Free to use)
 
 - For doctor dashboard:
-id:yash@gmail.com
-password:yash
+id: yash@gmail.com
+password: yash
 
 - For patient dashboard:
-id:prit@gmail.com
-password:prit
+id: prit@gmail.com
+password: prit
 
 # deployed at:
 https://dosome.me
