@@ -4,7 +4,7 @@
 - Designed a scheduling feature for doctors to set real time availability, and patients to book, view, or cancel appointments.
 - Implemented a notification system to remind patients of appointments and inform doctors of new bookings.
 
-## Instruction:(For any use)
+## Instruction:(Free to use)
 
 -For doctor dashboard:
 id:yash@gmail.com
